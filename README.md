@@ -19,9 +19,11 @@ Pandas, NumPy, Scikit-learn / PyTorch,TensorFlow
 
 --- 
 ## 🔥Activities
+
 BITAmin (AI Club) — 16th | (Jul 2025 – present)
 
 SISC (Investment Scholars Club Club) — 7th | (Mar 2025 – present)
+
 ---
 ## 📫 Contact
 Email: jason7815@naver.com
